@@ -4,14 +4,14 @@
 ### AIM: 
 To develop a stock market prediction model using Random Forest and XGBoost algorithms
 ###  Algorithm:
-Step 1:  Start the program.
-Step 2 : Import required packages.
-Step 3:  Load and preprocess historical stock data 
-Step 4:  Split the dataset into training and testing sets, and normalize if needed.  
-Step 5:  Train the models using Random Forest and XGBoost on training data.
-Step 6:  Predict the stock prices or movement using the trained models on test data.
-Step 7:  Combine model predictions using averaging or voting strategy
-Step 8:  Print the final prediction and optionally visualize the results.
+Step 1:  Start the program.<br>
+Step 2 : Import required packages.<br>
+Step 3:  Load and preprocess historical stock data.<br>
+Step 4:  Split the dataset into training and testing sets, and normalize if needed. <br>
+Step 5:  Train the models using Random Forest and XGBoost on training data.<br>
+Step 6:  Predict the stock prices or movement using the trained models on test data.<br>
+Step 7:  Combine model predictions using averaging or voting strategy.<br>
+Step 8:  Print the final prediction and optionally visualize the results.<br>
 Step 9:  Stop the program.
 ### Program:
 ```
@@ -52,6 +52,7 @@ plt.xlabel("Days")
 plt.ylabel("Price")
 plt.show()
 
+```
 ### Output/Plan:
 ![kfhdfjl](https://github.com/user-attachments/assets/8b9c4458-5438-4c6f-a8a7-144302223f48)
 
