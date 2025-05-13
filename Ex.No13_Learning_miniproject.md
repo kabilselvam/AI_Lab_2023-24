@@ -53,7 +53,7 @@ plt.ylabel("Price")
 plt.show()
 
 ### Output/Plan:
-WhatsApp Image 2025-05-13 at 11.45.32_7439b293
+![kfhdfjl](https://github.com/user-attachments/assets/8b9c4458-5438-4c6f-a8a7-144302223f48)
 
 
 ### Result:
